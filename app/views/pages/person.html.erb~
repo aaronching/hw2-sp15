@@ -1,3 +1,0 @@
-<h1> <%= @person.introduce %> </h1>
-<p> Birth Year: <%= @birthyear %> </p>
-<p> Nickname: <%= @person.nickname %> </p>
